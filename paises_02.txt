@@ -1,0 +1,79 @@
+Id	name	iso
+81	Guinea	GN
+82	Guadeloupe	GP
+83	Equatorial Guinea	GQ
+84	Greece	GR
+85	South Georgia and South Sandwich Islands	GS
+86	Guatemala	GT
+87	Guam	GU
+88	Guinea-Bissau	GW
+89	Guyana	GY
+90	Hong Kong	HK
+91	Heard and McDonald Islands	HM
+92	Honduras	HN
+93	Croatia and Hrvatska	HR
+94	Haiti	HT
+95	Hungary	HU
+96	Indonesia	ID
+97	Ireland	IE
+98	Israel	IL
+99	India	IN
+100	British Indian Ocean Territory	IO
+101	Iraq	IQ
+102	Iran	IR
+103	Iceland	IS
+104	Italy	IT
+105	Jamaica	JM
+106	Jordan	JO
+107	Japan	JP
+108	Kenya	KE
+109	Kyrgyzstan	KG
+110	Cambodia	KH
+111	Kiribati	KI
+112	Comoros	KM
+113	Saint Kitts and Nevis	KN
+114	Korea North	KP
+115	Korea South	KR
+116	Kuwait	KW
+117	Cayman Islands	KY
+118	Kazakhstan	KZ
+119	Laos	LA
+120	Lebanon	LB
+121	Saint Lucia	LC
+122	Liechtenstein	LI
+123	Sri Lanka	LK
+124	Liberia	LR
+125	Lesotho	LS
+126	Lithuania	LT
+127	Luxembourg	LU
+128	Latvia	LV
+129	Libya	LY
+130	Morocco	MA
+131	Monaco	MC
+132	Moldova	MD
+133	Madagascar	MG
+134	Marshall Islands	MH
+135	Macedonia	MK
+136	Mali	ML
+137	Myanmar	MM
+138	Mongolia	MN
+139	Macau	MO
+140	Northern Mariana Islands	MP
+141	Martinique	MQ
+142	Mauritania	MR
+143	Montserrat	MS
+144	Malta	MT
+145	Mauritius	MU
+146	Maldives	MV
+147	Malawi	MW
+148	Mexico	MX
+149	Malaysia	MY
+150	Mozambique	MZ
+151	Namibia	NA
+152	New Caledonia	NC
+153	Niger	NE
+154	Norfolk Island	NF
+155	Nigeria	NG
+156	Nicaragua	NI
+157	Netherlands	NE
+158	Norway	NO

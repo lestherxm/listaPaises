@@ -1,0 +1,81 @@
+Id	name	iso
+1	Andorra	AD
+2	United Arab Emirates	AE
+3	Afghanistan	AF
+4	Antigua and Barbuda	AG
+5	Anguilla	AI
+6	Albania	AL
+7	Armenia	AM
+8	Netherlands Antilles	AN
+9	Angola	AO
+10	Antarctica	AQ
+11	Argentina	AR
+12	American Samoa	AS
+13	Austria	AU
+14	Australia	AS
+15	Aruba	AW
+16	Azerbaijan	AZ
+17	Bosnia and Herzegovina	BA
+18	Barbados	BB
+19	Bangladesh	BD
+20	Belgium	BE
+21	Burkina Faso	BF
+22	Bahrain	BH
+23	Burundi	BI
+24	Benin	BJ
+25	Bermuda	BM
+26	Bolivia	BO
+27	Brazil	BR
+28	Bahamas	BS
+29	Bhutan	BT
+30	Bouvet Island	BU
+31	Bulgaria	BV
+32	Botswana	BW
+33	Brunei Darussalam	BX
+34	Belarus	BY
+35	Belize	BZ
+36	Canada	CA
+37	Cocos (Keeling) Islands	CC
+38	Central African Republic	CF
+39	Congo	CG
+40	Switzerland	CH
+41	Cote D'Ivoire (Ivory Coast)	CI
+42	Cook Islands	CK
+43	Chile	CL
+44	Cameroon	CM
+45	China	CN
+46	Colombia	CO
+47	Costa Rica	CR
+48	Cuba	CU
+49	Cape Verde	CV
+50	Christmas Island	CX
+51	Cyprus	CY
+52	Czech Republic	CZ
+53	Germany	DE
+54	Djibouti	DJ
+55	Denmark	DK
+56	Dominica	DM
+57	Dominican Republic	DO
+58	Algeria	DZ
+59	Ecuador	EC
+60	Estonia	EE
+61	Egypt	EG
+62	Western Sahara	EH
+63	Eritrea	ER
+64	Spain	ES
+65	Ethiopia	ET
+66	Finland	FI
+67	Fiji	FJ
+68	Falkland Islands (Malvinas)	FK
+69	Micronesia	FM
+70	Faroe Islands	FO
+71	France	FR
+72	Gabon	GA
+73	Great Britain (UK)	GB
+74	Grenada	GD
+75	Georgia	GE
+76	French Guiana	GF
+77	Ghana	GH
+78	Gibraltar	GI
+79	Greenland	GL
+80	Gambia	GM

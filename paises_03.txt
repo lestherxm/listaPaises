@@ -1,0 +1,81 @@
+Id	name	iso
+159	Nepal	NP
+160	Nauru	NR
+161	Niue	NU
+162	New Zealand	NZ
+163	Oman	OM
+164	Panama	PA
+165	Peru	PE
+166	French Polynesia	PF
+167	Papua New Guinea	PG
+168	Philippines	PH
+169	Pakistan	PK
+170	Poland	PO
+171	St. Pierre and Miquelon	PM
+172	Pitcairn	PN
+173	Puerto Rico	PR
+174	Portugal	PT
+175	Palau	PW
+176	Paraguay	PY
+177	Qatar	QA
+178	Reunion	RE
+179	Romania	RO
+180	Russian Federation	RU
+181	Rwanda	RW
+182	Saudi Arabia	SA
+183	Solomon Islands	SB
+184	Seychelles	SC
+185	Sudan	SD
+186	Sweden	SE
+187	Singapore	SG
+188	St. Helena	SH
+189	Slovenia	SI
+190	Svalbard and Jan Mayen Islands	SJ
+191	Slovak Republic	SK
+192	Sierra Leone	SL
+193	San Marino	SM
+194	Senegal	SN
+195	Somalia	SO
+196	Suriname	SR
+197	Sao Tome and Principe	ST
+198	El Salvador	SV
+199	Syria	SY
+200	Swaziland	SZ
+201	Turks and Caicos Islands	TC
+202	Chad	TD
+203	French Southern Territories	TF
+204	Togo	TG
+205	Thailand	TH
+206	Tajikistan	TI
+207	Tokelau	TK
+208	Turkmenistan	TM
+209	Tunisia	TN
+210	Tonga	TO
+211	East Timor	TP
+212	Turkey	TR
+213	Trinidad and Tobago	TT
+214	Tuvalu	TV
+215	Taiwan	TW
+216	Tanzania	TZ
+217	Ukraine	UA
+218	Uganda	UG
+219	United Kingdom	UK
+220	US Minor Outlying Islands	UM
+221	United States of America (USA)	US
+222	Uruguay	UY
+223	Uzbekistan	UZ
+224	Vatican City State	VA
+225	Saint Vincent and the Grenadines	VC
+226	Venezuela	VE
+227	Virgin Islands (British)	VG
+228	Viet Nam	VN
+229	Vanuatu	VU
+230	Wallis and Futuna Islands	WF
+231	Samoa	WS
+232	Yemen	YE
+233	Mayotte	YT
+234	Yugoslavia	YU
+235	South Africa	ZA
+236	Zambia	ZM
+237	Zaire	ZR
+238	Zimbabwe	ZW
