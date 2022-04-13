@@ -1,6 +1,6 @@
 # CARPE DIEM
 
-El archivo "paises.txt" contiene los datos de los otros tres archivos. Los datos estan delimitados por TABULADORES.
+El archivo "paises.txt" contiene los datos de forma conjunta de los otros tres archivos. Los datos estan delimitados por TABULADORES.
 
 # DISCLAIMER
 
